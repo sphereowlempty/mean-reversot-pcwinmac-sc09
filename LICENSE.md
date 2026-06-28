@@ -1,4 +1,4 @@
-# 
+# VIP 均值回归交易机器人 扩展 for Mac OS | 精英 均值回归交易机器人 扩展 for PC Windows. Featuring 均值回归策略 and 动量分析 — optimized for maximum performance.
 
 
 
